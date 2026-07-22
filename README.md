@@ -52,5 +52,3 @@ Security and operational notes
 
 Testing and verification
 - The project includes a small test harness under `tests/` which can be run with `pytest` after activating the virtualenv.
-
-If you need a condensed copy of these answers to paste into your Google form, I will provide them below ready-to-copy.
