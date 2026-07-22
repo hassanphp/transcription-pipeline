@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/coverage/
+frontend/.turbo/
+frontend/.vercel/
+
+# Environment files
+.env
+.env.*
+
+# Local data and test artifacts
+sample_audio.mp3
+test_audio.aiff
+test_real_audio.py
+*.aiff
+*.mp3
+*.wav
+*.mp4
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# AI / workspace footprint files
+frontend/AGENTS.md
+frontend/CLAUDE.md
+.github/copilot-instructions.md
+
+# Logs
+*.log
